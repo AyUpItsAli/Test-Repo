@@ -1,2 +1,3 @@
 f2c2
 f3c1
+fixed: game wont load bug
