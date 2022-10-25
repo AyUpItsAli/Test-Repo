@@ -1,6 +1,6 @@
 name: Bug report
 description: Report bugs to help improve the game
-labels: bug
+labels: ["bug"]
 
 body:
   - type: textarea
