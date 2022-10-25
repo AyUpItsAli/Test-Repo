@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Github Discussions
+    url: https://github.com/AyUpItsAli/Test-Repo/discussions
+    about: If you have any other questions or are just looking for general disuccsion, please open a discussion rather than an issue.
