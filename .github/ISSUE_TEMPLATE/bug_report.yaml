@@ -36,7 +36,7 @@ body:
     id: platform-and-version
     attributes:
       label: Platform and game version
-      description: Please add which platform and game version the bug occurred on.
+      description: Which platform and game version the bug occurred on.
       placeholder: I was playing the Windows version of the game. The game version is v1.4.2-beta.
     validations:
       required: true
