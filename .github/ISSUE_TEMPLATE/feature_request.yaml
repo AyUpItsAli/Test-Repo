@@ -1,6 +1,6 @@
 name: Feature request
 description: Suggest a new feature or change to an existing feature
-labels: suggestion
+labels: ["suggestion"]
 
 body:
   - type: textarea
